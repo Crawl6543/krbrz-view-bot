@@ -1,2 +1,4 @@
-requests
-colorama
+python-telegram-bot
+Pillow
+httpx
+Flask
